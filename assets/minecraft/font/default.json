@@ -1,0 +1,76 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\ue100": -32768,
+        "\ue101": -1,
+        "\ue102": -2,
+        "\ue103": -3,
+        "\ue104": -4,
+        "\ue105": -5,
+        "\ue106": -6,
+        "\ue107": -7,
+        "\ue108": -8,
+        "\ue109": -16,
+        "\ue110": -32,
+        "\ue111": -64,
+        "\ue112": -128,
+        "\ue113": -256,
+        "\ue114": -512,
+        "\ue115": -1024,
+        "\ue116": 32768,
+        "\ue117": 1,
+        "\ue118": 2,
+        "\ue119": 3,
+        "\ue120": 4,
+        "\ue121": 5,
+        "\ue122": 6,
+        "\ue123": 7,
+        "\ue124": 8,
+        "\ue125": 16,
+        "\ue126": 32,
+        "\ue127": 64,
+        "\ue128": 128,
+        "\ue129": 256,
+        "\ue130": 512,
+        "\ue131": 1024
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "kirkoc:ui/roles/admin.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\ue000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "kirkoc:ui/roles/moderator.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\ue001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "kirkoc:ui/icons/build.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\ue002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "kirkoc:ui/icons/survival.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\ue003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "kirkoc:ui/icons/hardcore.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\ue004"]
+    }
+  ]
+}
